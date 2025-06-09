@@ -63,7 +63,7 @@ Projekt oparty jest na notebooku Jupyter i wykorzystuje następujące biblioteki
 ## 🗂️ Struktura plików
 
 ```
-grupa 16 Speedruns/
+Speedruns/
 ├── Speedruns.ipynb     # Główny notebook z analizą i wykresami
 └── README.md           # Ten plik z instrukcją
 ```
